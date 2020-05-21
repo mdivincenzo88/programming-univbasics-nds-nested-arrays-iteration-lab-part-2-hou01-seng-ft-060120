@@ -15,6 +15,7 @@ while row_index < src.count do
   end
     new_array << min_value
   row_index += 1
+  min_ value = 1000
 end
 new_array
 
