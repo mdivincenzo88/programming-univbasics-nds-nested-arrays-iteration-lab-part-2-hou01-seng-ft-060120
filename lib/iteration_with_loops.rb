@@ -11,9 +11,9 @@ while row_index < src.count do
       min_value = src[row_index][element_index] 
      
     end
-    new_array << min_value
-    element_index += 1
+       element_index += 1
   end
+    new_array << min_value
   row_index += 1
 end
 new_array
